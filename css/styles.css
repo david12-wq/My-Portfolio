@@ -37,3 +37,9 @@ nav ul li{
     position: fixed;
     bottom: 0;
 }
+h1{
+    text-align: center;
+}
+h1 p{
+    text-align: center;
+}
