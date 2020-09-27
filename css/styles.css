@@ -18,3 +18,15 @@ nav ul li{
 .var {
     text-align: center;
 }
+.dav ul li {
+    text-align: center;
+    list-style: none;
+}
+#id {
+    text-align: center;
+}
+footer {
+    background-color: brown;
+    margin-top: 264px;
+    width: 100%;
+}
