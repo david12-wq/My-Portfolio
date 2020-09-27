@@ -25,8 +25,10 @@ nav ul li{
 #id {
     text-align: center;
 }
-footer {
+.footer {
     background-color: brown;
-    margin-top: 264px;
+    margin-top: 154px;
     width: 100%;
+    display: flex;
+    justify-content: space-evenly;
 }
